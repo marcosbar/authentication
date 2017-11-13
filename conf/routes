@@ -1,1 +1,1 @@
-GET     /ok         org.magoba.auth.controller.AuthController.ok
+POST     /login         org.magoba.auth.controller.AuthController.login
